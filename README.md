@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trivedi Diya</h1>
 <h3 align="center">A passionate FullStack Developer!</h3>
 
-- 🔭 I’m currently learning **MERN stack project**
-
-- 🤝 I’m looking for help with **ChatApp,which is MERN Stack project**
+- 🔭 I’m currently learning **MERN stack**
 
 - 👨‍💻 Portfolio [https://664213ed6a604b0092bf6ff0--legendary-speculoos-a12c0f.netlify.app/](https://664213ed6a604b0092bf6ff0--legendary-speculoos-a12c0f.netlify.app/)
 
